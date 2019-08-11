@@ -55,6 +55,7 @@ public class OBJLoader {
 					normalsArray = new float [vertices.size() * 3];
 					break;
 				}
+				
 			}
 			
 			while (line != null) {
